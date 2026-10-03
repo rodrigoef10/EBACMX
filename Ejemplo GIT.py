@@ -7,4 +7,4 @@ c = 30 * 10 * 5
 print ('resultado=',c)
 
 d = c * 100
-print ('resultado total =', c)
+print ('resultado total =', d)
