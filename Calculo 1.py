@@ -1,10 +1,12 @@
 # Prueba de Python
 # Se añadió la variable "c"
 # Nueva variable E
+# Añado la variable F como factor de tendencia
 a = 10
 b = 30
 e = 1.1
-c = 30 * 10 * 5 / e
+f = 5
+c = 30 * 10 * 5 / e * (1 + f/ 100)
 
 print ('resultado=', c)
 
